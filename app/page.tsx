@@ -92,7 +92,7 @@ export default function Home() {
         If you&apos;re a licensed amateur radio operator and meet the Constitution and
         Bylaws guidelines (see below), we invite you to join the Young Volunteer
         Examiners Club. You&apos;ll be authorized to use our callsign, KE2IYN, to
-        amplify this effort and help advocate for ending the minimum age requirement
+        advance this effort and help advocate for ending the minimum age requirement
         for Volunteer Examiners.
       </p>
 
