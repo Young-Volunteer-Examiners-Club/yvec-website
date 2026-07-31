@@ -90,10 +90,10 @@ export default function Home() {
       </p>
       <p className="info">
         If you&apos;re a licensed amateur radio operator and meet the Constitution and
-        Bylaws guidelines (see below), we invite you to join the Young Volunteer
-        Examiners Club. You&apos;ll be authorized to use our callsign, KE2IYN, to
-        advance this effort and help advocate for ending the minimum age requirement
-        for Volunteer Examiners.
+        Bylaws guidelines (see below), we invite you to join the Young Volunteer Examiners
+        Club once applications come out. Additionally, if you&apos;re licensed in the U.S.,
+        you may be authorized to use our callsign, KE2IYN, to help advocate for our mission
+        to end the minimum age requirement for Volunteer Examiners.
       </p>
 
       <section>
@@ -142,7 +142,7 @@ export default function Home() {
           <article className="board-card">
             <Image
               className="mx-auto board-image"
-              src="/images/KD3ATK.jpg"
+              src="/images/KD3ATK.png"
               alt="Declan KD3ATK"
               width={200}
               height={200}
