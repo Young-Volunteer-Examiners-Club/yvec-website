@@ -36,7 +36,8 @@ export default function Home() {
       </p>
       <p className="info">
         Jose Moran Urena, KE2IOZ, and Ethan Quintero, KE2IEH, have been working
-        hard, letting as many people know about this petition, with getting 6
+        hard, letting as many people know about this petition, with getting over
+        6,700 views on QRZ and RadioReference combined, and statements from 6
         people so far to submit comments to the FCC supporting the petition.
         This is why we need YOU to join us and spread the word.
       </p>
