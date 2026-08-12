@@ -47,7 +47,7 @@ export default function Home() {
         If you have a moment, please review the{" "}
         <a
           className="email"
-          href="https://www.fcc.gov/ecfs/document/26110000471/1"
+          href="https://www.fcc.gov/ecfs/document/26110070784/1"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -207,7 +207,7 @@ export default function Home() {
         <p className="infobig">
           <a
             className="email"
-            href="https://www.fcc.gov/ecfs/search/search-filings/filing/26110000471"
+            href="https://www.fcc.gov/ecfs/search/search-filings/filing/26110070784"
             target="_blank"
             rel="noopener noreferrer"
           >
