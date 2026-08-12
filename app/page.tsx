@@ -227,6 +227,21 @@ export default function Home() {
           </a>
           .
         </p>
+
+        <h2 className="heading-2">FCC Response</h2>
+        <AdobePdfViewer
+          viewerId="fcc-response-viewer"
+          clientId="0dadd859722e4147861841054f37f23b"
+          fileUrl="/files/fcc-response.pdf"
+          fileName="fcc-response.pdf"
+        />
+        <p className="info">
+          If the viewer doesn&apos;t load,{" "}
+          <a className="email" href="/files/fcc-response.pdf">
+            download the FCC Response PDF
+          </a>
+          .
+        </p>
       </section>
 
       <h1 className="section-title">Contact</h1>
