@@ -98,7 +98,7 @@ export default function Home() {
       </p>
       <p className="info">
         To apply, please visit{" "}
-        <a href="https://secure.hamclubonline.com/apply.php" target="_blank" rel="noopener noreferrer">
+        <a className="email" href="https://secure.hamclubonline.com/apply.php" target="_blank" rel="noopener noreferrer">
           HamClubOnline
         </a>{" "}
         and submit your application to our club using our callsign, KE2IYN.
