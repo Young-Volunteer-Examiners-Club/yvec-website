@@ -92,9 +92,16 @@ export default function Home() {
       <p className="info">
         If you&apos;re a licensed amateur radio operator and meet the Constitution and
         Bylaws guidelines (see below), we invite you to join the Young Volunteer Examiners
-        Club once applications come out. Additionally, if you&apos;re licensed in the U.S.,
-        you may be authorized to use our callsign, KE2IYN, to help advocate for our mission
-        to end the minimum age requirement for Volunteer Examiners.
+        Club. If you&apos;re licensed in the U.S., you may even be authorized to use our
+        callsign, KE2IYN, to help advocate for our mission to end the minimum age requirement
+        for Volunteer Examiners.
+      </p>
+      <p className="info">
+        To apply, please visit{" "}
+        <a href="https://secure.hamclubonline.com/apply.php" target="_blank" rel="noopener noreferrer">
+          HamClubOnline
+        </a>{" "}
+        and submit your application to our club using our callsign, KE2IYN.
       </p>
 
       <section>
@@ -203,7 +210,7 @@ export default function Home() {
           .
         </p>
 
-        <h2 className="heading-2">The Original Petition</h2>
+        <h2 className="heading-2">The Petition</h2>
         <p className="infobig">
           <a
             className="email"
@@ -245,8 +252,18 @@ export default function Home() {
       </section>
 
       <h1 className="section-title">Contact</h1>
-      <p className="infobig">Email: board@yvec.org</p>
-      <p className="infobig">Discord: Coming Soon...</p>
+      <p className="infobig">
+        Email:{" "}
+        <a className="email" href="mailto:board@yvec.org">
+          board@yvec.org
+        </a>
+      </p>
+      <p className="infobig">
+        Discord:{" "}
+        <a className="email" href="https://discord.gg/DTfYHhacTk" target="_blank" rel="noopener noreferrer">
+          https://discord.gg/DTfYHhacTk
+        </a>
+      </p>
     </main>
   );
 }
