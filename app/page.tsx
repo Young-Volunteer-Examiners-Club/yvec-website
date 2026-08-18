@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="website-shell">
       <p className="section-title site-title">Young Volunteer Examiners Club</p>
-      <h1 className="section-title hero-callsign">KE2IYN</h1>
+      <h1 className="section-title hero-callsign">WY2VEC</h1>
       <Image
         className="mx-auto hero-logo"
         src="/images/logo.png"
@@ -93,7 +93,7 @@ export default function Home() {
         If you&apos;re a licensed amateur radio operator and meet the Constitution and
         Bylaws guidelines (see below), we invite you to join the Young Volunteer Examiners
         Club. If you&apos;re licensed in the U.S., you may even be authorized to use our
-        callsign, KE2IYN, to help advocate for our mission to end the minimum age requirement
+        callsign, WY2VEC, to help advocate for our mission to end the minimum age requirement
         for Volunteer Examiners.
       </p>
       <p className="info">
@@ -101,7 +101,7 @@ export default function Home() {
         <a className="email" href="https://secure.hamclubonline.com/apply.php" target="_blank" rel="noopener noreferrer">
           HamClubOnline
         </a>{" "}
-        and submit your application to our club using our callsign, KE2IYN.
+        and submit your application to our club using our callsign, WY2VEC.
       </p>
 
       <section>
