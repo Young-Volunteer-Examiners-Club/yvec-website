@@ -252,9 +252,11 @@ export default function Home() {
       </section>
 
       <h1 className="section-title">Statements</h1>
-      <a className="email" href="https://www.amateurradioinclusivitypledge.org">
-        Proudly Making the Bronze Level Amateur Radio Inclusivity Pledge
-      </a>
+      <p className="infobig">
+        <a className="email" href="https://www.amateurradioinclusivitypledge.org">
+          Proudly Making the Bronze Level Amateur Radio Inclusivity Pledge
+        </a>
+      </p>
       
       <h1 className="section-title">Contact</h1>
       <p className="infobig">
