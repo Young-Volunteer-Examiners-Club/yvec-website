@@ -254,7 +254,7 @@ export default function Home() {
       <h1 className="section-title">Statements</h1>
       <p className="infobig">
         <a className="email" href="https://www.amateurradioinclusivitypledge.org">
-          Proudly Making the Bronze Level Amateur Radio Inclusivity Pledge
+          Proudly Making the Amateur Radio Inclusivity Pledge
         </a>
       </p>
       
