@@ -256,6 +256,8 @@ export default function Home() {
         <a className="email" href="https://www.amateurradioinclusivitypledge.org">
           Proudly Making the Amateur Radio Inclusivity Pledge 
           </a>
+      </p>
+      <p className="info">
         <br /> • "Membership may not be denied or terminated because of race, creed, color, religion, gender, sexual orientation, political affiliation, marital status, disability or any other reason that would be biased or prejudicial" - YVEC Constituion and Bylaws
         <br /> • We proudly support any and all members of the LGBTQIA+ community, people of color, any and all religions, the disabled, and ohter marginilaized groups!
         <br /> • All are welcome. If you think otherwise, you aren't! Bigotry is not allowed and will result in immediate termination! This includes but is not limited to: Racisim, Homophobia, Transphobia, Xenophobia, and Classism.
